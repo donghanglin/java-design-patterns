@@ -3,6 +3,7 @@ layout: pattern
 title: Hexagonal Architecture
 folder: hexagonal
 permalink: /patterns/hexagonal/
+pumlid: HSTB4W8X30N0g-W1XkozpPD90LO8L3wEnzUTk-xxq2fvSfhSUiJs1v7XAcr4psSwMrqQh57gcZGaBmICNdZZEDb7qsCZWasT9lm7wln1MmeXZlfVIPjbvvGl
 categories: Architectural
 tags:
  - Java
@@ -24,6 +25,9 @@ Use Hexagonal Architecture pattern when
 
 * it is important that the application is fully testable
 * you use Domain Driven Design methodology and/or Microservices architectural style
+
+## Tutorials
+* [Build Maintainable Systems With Hexagonal Architecture](http://java-design-patterns.com/blog/build-maintainable-systems-with-hexagonal-architecture/)
 
 ## Real world examples
 
